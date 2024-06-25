@@ -26,6 +26,10 @@ Welcome to the Hello Name Application repository! This simple Tkinter-based GUI 
 
 ### Screen mockups
 
+The app was prototyped using [Figma](https://www.figma.com/design/CgwDsn1tYo8YffaNimjVfq/IFCS-HelloWorld?node-id=0-1&t=fSJk46k665IlDYDs-1).
+
+![mockups](HelloName_proto.png)
+
 ### Code Design
 
 The code design is summarised in the class diagram below.
