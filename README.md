@@ -27,3 +27,9 @@ Welcome to the Hello Name Application repository! This simple Tkinter-based GUI 
 ### Screen mockups
 
 ### Code Design
+
+The code design is summarised in the class diagram below.
+
+The `HelloName` class inherits from the `tk.Tk` class, which provides the foundational GUI window functionality. This inheritance allows `HelloName` to use and extend the methods and attributes of `tk.Tk` to create a customised application window with specific features for user interaction and input validation.
+
+![class-diagram](HelloName.png)
